@@ -7,13 +7,13 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: José Manuel Campos Ortega # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: josem.campos.or@gmail.com
+  phone: 3121341179
   website: # No agregar http://
   linkedin: brightcoders
   github: brightcoders
@@ -50,8 +50,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
-
+    As a Mechatronic engineer, I consider myself someone who loves acquiring and applying knowledge, the more I know, the more capable I feel. My personal motto is: Always finish what you set out to do and give your best effort to achieve your goals. Also, I'm passionate for the software and web programming world, I would like to enter a job related to software or web programming to improve my knowledge and earn experience of real programming problems solving.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Applied Scientist full-time at AWS
@@ -86,31 +85,23 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Technological Development Projects for Students
+    time: 2020 - 2021
+    company: Tecnológico Nacional de México, Colima, Col
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      • Classification for technological investment by the Tecnológico Nacional de México.
+      • Design and development of a conveyor belt for a food company Congelados de Tecoman, capable to measure the material flow through it and pack it with the desirable volume.
+      • All the mechanical parts of the project were design using Autodesk Inventor
+      • All the control parts of the project were developed in STM32CubeIDE.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Automation Engineering
+    time: 2020 - 2021
+    company: Hi Tech Irrigation de México, Tecolotlán, Jal
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      • Intership at Hi Tech Irrigation de México, as a crop systems automation specialist to grow blueberry
+      • Created functional berry automatic crop growing management systems
+      • Installation, calibration and maintenance of special machines for irrigation automation
+      • Installation of high-power devices
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
