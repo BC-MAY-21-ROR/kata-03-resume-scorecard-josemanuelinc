@@ -15,11 +15,11 @@ sidebar:
   email: josem.campos.or@gmail.com
   phone: 3121341179
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: www.linkedin.com/in/jmanuel-campos/
+  github: github.com/josemanuelinc
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,13 +27,10 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: B2 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -43,8 +40,17 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Adaptability
       link: # dejar en blanco
+    
+    - item: Problem-solving
+      link: # dejar en blanco
+    
+    - item: Creativity
+      link: # dejar en blanco
+
+    
+    
 
 # Registra aquí un resumen de tu perfil
 career-profile:
@@ -53,35 +59,12 @@ career-profile:
     As a Mechatronic engineer, I consider myself someone who loves acquiring and applying knowledge, the more I know, the more capable I feel. My personal motto is: Always finish what you set out to do and give your best effort to achieve your goals. Also, I'm passionate for the software and web programming world, I would like to enter a job related to software or web programming to improve my knowledge and earn experience of real programming problems solving.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
-    details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
+ 
   - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
+    university: Tecnológico Nacional de México (Colima, col)
+    time: 2016 - 2021
     details: |
-      Master degree in Computer Engineering
+      Bachelor degree in Mechatronics engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -89,10 +72,10 @@ experiences:
     time: 2020 - 2021
     company: Tecnológico Nacional de México, Colima, Col
     details: |
-      • Classification for technological investment by the Tecnológico Nacional de México.
-      • Design and development of a conveyor belt for a food company Congelados de Tecoman, capable to measure the material flow through it and pack it with the desirable volume.
-      • All the mechanical parts of the project were design using Autodesk Inventor
-      • All the control parts of the project were developed in STM32CubeIDE.
+      - Classification for technological investment by the Tecnológico Nacional de México.
+      - Design and development of a conveyor belt for a food company Congelados de Tecoman, capable to measure the material flow through it and pack it with the desirable volume.
+      - All the mechanical parts of the project were design using Autodesk Inventor
+      - All the control parts of the project were developed in STM32CubeIDE.
 
   - role: Automation Engineering
     time: 2020 - 2021
@@ -101,7 +84,7 @@ experiences:
       - Intership at Hi Tech Irrigation de México, as a crop systems automation specialist to grow blueberry
       - Created functional berry automatic crop growing management systems
       - Installation, calibration and maintenance of special machines for irrigation automation
-        - Installation of high-power devices
+      - Installation of high-power devices
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -113,23 +96,20 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
+    - name: Ruby
       level: 20%
 
-    - name: PyTorch
+    - name: Python
       level: 40%
 
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
-      level: 80%
+    - name: JavaScript
+      level: 40%
 
     - name: Matlab
-      level: 100%
+      level: 60%
 
-    - name: C/C++
-      level: 40%
+    - name: Embedded C
+      level: 60%
 
 # NO MODIFICAR
 footer: >
